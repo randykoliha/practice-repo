@@ -23,5 +23,13 @@ I am _passionate about_:
 - Academia: This is my university <https://www.floridapoly.edu>
 
 ***
+Here's an local image :
+
+![datanetwork](dataNetwork.jpg)
+
+Here's a image from the web
+
+![ist](https://floridapoly.edu/news/articles/2021/06/assets/060821-applicationsincrease.jpg)
+
 
 > Last modified: 2022/1/20
