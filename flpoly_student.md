@@ -23,6 +23,9 @@ I am _passionate about_:
 - Academia: This is my university <https://www.floridapoly.edu>
 
 ***
+
+#Images 
+
 Here's an local image :
 
 ![datanetwork](dataNetwork.jpg)
@@ -30,6 +33,23 @@ Here's an local image :
 Here's a image from the web
 
 ![ist](https://floridapoly.edu/news/articles/2021/06/assets/060821-applicationsincrease.jpg)
+
+# A table 
+
+Below is a sample table:
+
+|  Tool Name   |     Used for                  |
+|:-------------|------------------------------:|
+|    R         |Data wrangling, data viz, stats|
+| Python       |Data modeling, developing apps |
+| Git          |Version control                |
+
+
+
+
+
+
+
 
 
 > Last modified: 2022/1/20
